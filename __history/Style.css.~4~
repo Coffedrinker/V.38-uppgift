@@ -5,7 +5,7 @@ Description: This page is a basic CSS.
 */
 body{
 	background-color: #ff0000;
-	//background-image: url(images/stupidfox.jpg);
+		
 }
 
 #mainNav li {

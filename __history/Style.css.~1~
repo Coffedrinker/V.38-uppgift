@@ -5,14 +5,8 @@ Description: This page is a basic CSS.
 */
 body{
 	background-color: #ff0000;
-	//background-image: url(images/stupidfox.jpg);
+		
 }
-
-#mainNav li {
-	border: 1px solid #000;
-	list-style:none;
-}
-
 #container{
 	border: 2px solid #00ff00;
 		

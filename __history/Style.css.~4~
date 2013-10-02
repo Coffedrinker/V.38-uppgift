@@ -1,0 +1,19 @@
+/*
+Author: Steve/CaffeineDash/C8H10N4O2Addict
+contact: jawes70@gmail.com
+Description: This page is a basic CSS.
+*/
+body{
+	background-color: #ff0000;
+		
+}
+
+#mainNav li {
+	border: 1px solid #000;
+	list-style:none;
+}
+
+#container{
+	border: 2px solid #00ff00;
+		
+}
